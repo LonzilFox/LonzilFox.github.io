@@ -1,4 +1,109 @@
 {
   "username": "LonzilFox",
-  "repos": []
+  "repos": [
+    {
+      "name": "ColorBlockClicker",
+      "html_url": "https://github.com/LonzilFox/ColorBlockClicker",
+      "description": "",
+      "topics": [
+        "category-automation"
+      ],
+      "language": "C#",
+      "stargazers_count": 0,
+      "updated_at": "2026-09-10T10:50:00Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DL1TaskAssistant",
+      "html_url": "https://github.com/LonzilFox/DL1TaskAssistant",
+      "description": "",
+      "topics": [
+        "category-game"
+      ],
+      "language": "C#",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-11T19:13:59Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "GitHubCodeCounter",
+      "html_url": "https://github.com/LonzilFox/GitHubCodeCounter",
+      "description": "",
+      "topics": [
+        "category-tool"
+      ],
+      "language": "PowerShell",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-11T19:21:03Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "OCRCaptureTool",
+      "html_url": "https://github.com/LonzilFox/OCRCaptureTool",
+      "description": "",
+      "topics": [
+        "category-tool"
+      ],
+      "language": "C#",
+      "stargazers_count": 0,
+      "updated_at": "2026-09-10T20:08:41Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "PixeloramaPixelTool",
+      "html_url": "https://github.com/LonzilFox/PixeloramaPixelTool",
+      "description": "",
+      "topics": [
+        "category-creative-tool"
+      ],
+      "language": "HTML",
+      "stargazers_count": 0,
+      "updated_at": "2026-09-10T10:36:47Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SixtySecondsAssistant",
+      "html_url": "https://github.com/LonzilFox/SixtySecondsAssistant",
+      "description": "",
+      "topics": [
+        "category-game"
+      ],
+      "language": "C#",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-11T13:40:06Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SlimeLounge",
+      "html_url": "https://github.com/LonzilFox/SlimeLounge",
+      "description": "",
+      "topics": [
+        "category-web"
+      ],
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-11T16:59:07Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "WebsiteViewer",
+      "html_url": "https://github.com/LonzilFox/WebsiteViewer",
+      "description": "",
+      "topics": [
+        "category-tool"
+      ],
+      "language": "C#",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-11T18:39:12Z",
+      "archived": false,
+      "fork": false
+    }
+  ]
 }
