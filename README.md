@@ -9,11 +9,12 @@ Personal portfolio and public project archive for **LonzilFox / Tiasmi**.
 
 <!-- AUTO-PROJECTS:START -->
 
-**9 repositories**
+**10 repositories**
 
-#### 01 // Games & Mods (2)
+#### 01 // Games & Mods (3)
 
 - **[DL1TaskAssistant](https://github.com/LonzilFox/DL1TaskAssistant)** — Source repository
+- **[LuckyKissAssistant](https://github.com/LonzilFox/LuckyKissAssistant)** — Source repository
 - **[SixtySecondsAssistant](https://github.com/LonzilFox/SixtySecondsAssistant)** — Source repository
 
 #### 02 // Automation (1)

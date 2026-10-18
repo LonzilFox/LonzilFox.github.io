@@ -41,6 +41,19 @@
       "fork": false
     },
     {
+      "name": "LuckyKissAssistant",
+      "html_url": "https://github.com/LonzilFox/LuckyKissAssistant",
+      "description": "",
+      "topics": [
+        "category-game"
+      ],
+      "language": "C++",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-18T09:17:29Z",
+      "archived": false,
+      "fork": false
+    },
+    {
       "name": "OCRCaptureTool",
       "html_url": "https://github.com/LonzilFox/OCRCaptureTool",
       "description": "",
