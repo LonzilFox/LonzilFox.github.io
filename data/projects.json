@@ -41,6 +41,19 @@
       "fork": false
     },
     {
+      "name": "LostLifeSaveEditor",
+      "html_url": "https://github.com/LonzilFox/LostLifeSaveEditor",
+      "description": "",
+      "topics": [
+        "category-game"
+      ],
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-18T13:13:42Z",
+      "archived": false,
+      "fork": false
+    },
+    {
       "name": "LuckyKissAssistant",
       "html_url": "https://github.com/LonzilFox/LuckyKissAssistant",
       "description": "",
@@ -102,6 +115,19 @@
       "language": "JavaScript",
       "stargazers_count": 0,
       "updated_at": "2026-10-11T16:59:07Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "TeachingFeelingSaveEditor",
+      "html_url": "https://github.com/LonzilFox/TeachingFeelingSaveEditor",
+      "description": "",
+      "topics": [
+        "category-game"
+      ],
+      "language": "HTML",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-18T11:57:43Z",
       "archived": false,
       "fork": false
     },
