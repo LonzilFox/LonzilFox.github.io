@@ -9,7 +9,7 @@ Personal portfolio and public project archive for **LonzilFox / Tiasmi**.
 
 <!-- AUTO-PROJECTS:START -->
 
-**12 repositories**
+**13 repositories**
 
 #### 01 // Games & Mods (5)
 
@@ -31,10 +31,11 @@ Personal portfolio and public project archive for **LonzilFox / Tiasmi**.
 
 - **[PixeloramaPixelTool](https://github.com/LonzilFox/PixeloramaPixelTool)** — Source repository
 
-#### 05 // TOOL (4)
+#### 05 // TOOL (5)
 
 - **[GitHubCodeCounter](https://github.com/LonzilFox/GitHubCodeCounter)** — Source repository
 - **[OCRCaptureTool](https://github.com/LonzilFox/OCRCaptureTool)** — Source repository
+- **[QuestionOCRMobile](https://github.com/LonzilFox/QuestionOCRMobile)** — Source repository
 - **[WebsiteViewer](https://github.com/LonzilFox/WebsiteViewer)** — Source repository
 - **[WeLinkMessageExporter](https://github.com/LonzilFox/WeLinkMessageExporter)** — Source repository
 
